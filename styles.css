@@ -1,0 +1,104 @@
+body{
+    margin: 0;
+}
+
+.bg{
+    height: 100vh;
+    background-image: url('bg4.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.csdf{
+    background-color: black;
+    padding-right: 50px;
+    width: 450px;
+    height: 500px;
+    opacity: 0.85;
+}
+
+.qwert{
+    display: inline-block;
+    /*font-family: 'Lobster', cursive;*/
+    font-family: 'Cabin', sans-serif;
+    color: lightgray;
+    font-size: 500%;
+    padding-left: 12%;
+    padding-top: 35%;
+}
+
+.azxcv{
+    font-family: 'Righteous', cursive; 
+    color: white;
+    font-size: 1.5rem;
+    padding-left: 19%;
+    text-decoration: none;
+}
+.db{
+    padding-top: 3%;
+    padding-left: 15%;
+    font-size: 2.5rem;
+    font-family: 'Righteous', cursive; 
+    color: lightgray;
+}
+
+.nara{
+   
+    background-image: url('nar.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    height: 100vh;
+}
+
+.l1{
+    text-decoration: none;
+    color: black;
+    
+}
+
+.l1:hover{
+    color: coral;
+}
+
+.l2{
+    color: white;
+    text-decoration: none;
+}
+.l2:hover{
+    color: black;
+}
+
+.rohit{
+    background-image: url('roh.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    height: 100vh;
+}
+
+.viswa{
+    background-image: url('visw.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    height: 100vh;
+}
+
+.heman{
+    background-image: url('kam.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    height: 100vh;
+}
+
+
+
+
